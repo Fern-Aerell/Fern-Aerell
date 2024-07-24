@@ -1,6 +1,11 @@
-## Hi there 👋
+# Hi there 👋
+I'm Fern Aerell, and this is my space for experimentation and learning. Here, you'll find numerous unfinished projects that showcase my journey in exploring and mastering new skills.
+
+## About Me 
+I am a passionate self-taught Software Engineer with a keen interest in building efficient and scalable software applications. With a background in developing both web and mobile applications, I thrive in creating seamless user experiences and robust, reliable code. Always eager to learn and adapt, I enjoy tackling complex problems and turning them into innovative solutions. Currently looking for opportunities to contribute to cutting-edge projects and grow with a dynamic team.
 
 <!--
+## Technologies I've Explored
 **Fern-Aerell/Fern-Aerell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
